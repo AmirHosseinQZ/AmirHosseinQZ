@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=43&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+AmirHossein+QaemiZadeh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=43&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=6000&lines=Hi+There!+👋;+I'm+AmirHossein+QaemiZadeh!;" />
 </h1>
 
 ### 😊A Student and Passionate and enthusiastic programmer.
